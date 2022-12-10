@@ -1,0 +1,2 @@
+# Email-scrapping
+Scrapy spider
