@@ -1,2 +1,2 @@
 # Email-scrapping
-Scrapy spider
+Scrapy crawlspider
